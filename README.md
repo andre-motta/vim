@@ -4,4 +4,4 @@ Run this first
 
 Then run
 
-PackageInstall on vim
+PluginInstall on vim
